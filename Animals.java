@@ -10,7 +10,7 @@ public class Animals {
     }
 
     public void setLegs(int legs) {
-        this.legs = 4;
+        this.legs = legs;
     }
 
     public int getLegs() {
